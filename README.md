@@ -52,3 +52,6 @@ go run main.go
 ## CONTRIBUTION
 I'm still learning Golang basics so feel free to help me or give any advice!
 You can fork the repository and make a pull request!
+
+## ACKNOWLEDGMENTS
+Special thanks to @_ttemporin. This API was made inspired over his videos!
