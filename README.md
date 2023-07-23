@@ -12,8 +12,8 @@ Made this simples CRUD API with GO and it's own http library.
 
 
 ## INSTALATION
-1. Clone this repository: `git clone https://github.com/matheusjost/go-betting-api.git`
-2. Navigate to the project directory: `cd go-betting-api`
+1. Clone this repository: `git clone https://github.com/matheusjost/betting-api.git`
+2. Navigate to the project directory: `cd betting-api`
 
 
 ## CONFIGURATION
